@@ -1,0 +1,35 @@
+# Global IntelliJ IDEA files (affects all projects in waslab03)
+.idea/
+*.iml
+
+# Ignore build directories inside MastodonClient
+MastodonClient/target/
+MastodonClient/out/
+MastodonClient/bin/
+
+# Ignore Maven & Gradle cache directories inside MastodonClient
+MastodonClient/.mvn/
+MastodonClient/.gradle/
+MastodonClient/build/
+
+# Ignore logs and temporary files
+MastodonClient/logs/
+MastodonClient/*.log
+MastodonClient/*.tmp
+MastodonClient/*.swp
+
+# Ignore compiled Java classes
+MastodonClient/**/*.class
+MastodonClient/**/*.jar
+MastodonClient/**/*.war
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local environment-specific configurations
+MastodonClient/.env
+MastodonClient/*.config
+
+# Ignore node_modules (if frontend dependencies exist)
+MastodonClient/node_modules/
