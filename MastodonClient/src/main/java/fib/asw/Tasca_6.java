@@ -1,8 +1,12 @@
 package fib.asw;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import org.apache.hc.client5.http.fluent.Request;
@@ -10,7 +14,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class Tasca_6 {
-	
+	private static final String CUSTOM_WEB_TEMPLATE_TOKEN = "%%s";
 	private static final String WEB_TEMPLATE = "<head>\n" + 
 			"    <meta charset=\"UTF-8\">\n" + 
 			"    <title>Darrers tuts dels comptes seguits</title>\n" + 
@@ -104,9 +108,9 @@ public class Tasca_6 {
 			"<body>\n" + 
 			"<div class=\"header\">\n" + 
 			"<h1>Els cinc tuts més recents + informació del comptes seguits per l'usuari 'fib_asw'</h1>\n" + 
-			"<p>%s</p>\n" + 
+			"<p>%%s</p>\n" + 
 			"</div>\n" + 
-			"%s" +
+			"%%s" +
 			"</body>";
 	
 	private static final String FIB_ASW_ID = "109862447110628983";
@@ -124,13 +128,26 @@ public class Tasca_6 {
     		accountObjects = new ArrayList<JSONObject>(numAccounts);
     		for (int i = 0; i < numAccounts; i++) {
     			accountObjects.add(i, jsonAccounts.getJSONObject(i));
-    			appendHTMLAccount("", jsonAccounts.getJSONObject(i));
     		}
-    		
-
     	} catch (Exception ex) {
             ex.printStackTrace();
         }
+    	
+    	String htmlAccounts = "";
+    	for (var accountObj : accountObjects)
+    		appendHTMLAccount(htmlAccounts, accountObj);
+    	
+    	// replace with custom pattern matching
+    	String html = String.format(WEB_TEMPLATE, "TODO", htmlAccounts);
+    	Pattern customPattern = Pattern.compile(CUSTOM_WEB_TEMPLATE_TOKEN);
+    	Matcher matcher = customPattern.matcher(WEB_TEMPLATE);
+    	
+    	try (BufferedWriter writer = new BufferedWriter(new FileWriter("tasca_6.html"))) {
+    		writer.write(html);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+    	
     }
     
     private static final String ACCOUNT_TEMPLATE = "<div>"
@@ -139,7 +156,7 @@ public class Tasca_6 {
 			+ "%s"
 			+ "</div>";
     private static final String USERNAME_TEMPLATE = "%s@mastodont.cat";
-    private static void appendHTMLAccount(String html, JSONObject account) {
+    private static void appendHTMLAccount(String htmlaccounts, JSONObject account) {
     	String displayName = account.getString("display_name");
     	if (displayName.length() == 0) 
     		displayName = account.getString("username");
@@ -153,9 +170,10 @@ public class Tasca_6 {
     	if (!domainMatch.matcher(accountName).find())
     		accountName = String.format(USERNAME_TEMPLATE, account.getString("username"));
     	
+    	// create the html element
     	String htmlAccount = String.format(ACCOUNT_TEMPLATE, avatarSrc, displayName,
     			accountName, followersCount, "");
-    	// System.out.println(htmlAccount);
     	
+    	htmlaccounts = htmlaccounts.concat(htmlAccount);
     }
 }
