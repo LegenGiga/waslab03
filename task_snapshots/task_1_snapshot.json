@@ -1,0 +1,1987 @@
+ [
+    {
+        "id": "114082043419754158",
+        "created_at": "2025-02-28T14:43:52.000Z",
+        "in_reply_to_id": "114082037039593737",
+        "in_reply_to_account_id": "54504",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "fr",
+        "uri": "https://tooting.ch/users/ariane/statuses/114082043158486556",
+        "url": "https://tooting.ch/@ariane/114082043158486556",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Et comme rien n'arrivait, un jour, mes nerfs ont simplement lâché et j'ai fait une syncope dans les WC. C'est à ce moment-là que mes profs, la direction de l'école, mes camarades et mes parents ont compris le traumatisme qui m'accompagnait en permanence. Et certains camarades m'ont même présenté leurs excuses pour les années précédentes. Surtout, ils ont avoué ne pas avoir compris le mal qu'il me faisait lors de leur <a href=\"https://tooting.ch/tags/harcelement\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>harcelement</span></a>. Pour eux, c'était juste un jeu, cruel, mais sans conséquence.</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "54504",
+            "username": "ariane",
+            "acct": "ariane@tooting.ch",
+            "display_name": "Autiste à :ch_Vaud:🌊 #woke",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": false,
+            "group": false,
+            "created_at": "2018-11-02T00:00:00.000Z",
+            "note": "<p>:unverified: (╯°□°)╯︵ ʞooqǝɔɐɟ puɐ ɹǝʇʇᴉʍʇ </p><p>Jeune Padawan du <a href=\"https://tooting.ch/tags/libre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>libre</span></a>, je suis membre du <a href=\"https://tooting.ch/tags/partipirate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>partipirate</span></a> vaudois :ch_Vaud:  <span class=\"h-card\" translate=\"no\"><a href=\"https://tooting.ch/@partipiratevaudois\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>partipiratevaudois</span></a></span>. J'ai été diagnostiquée avec un <a href=\"https://tooting.ch/tags/TSA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TSA</span></a> (trouble du spectre autistique) en février 2020. Mes intérêts sont le <a href=\"https://tooting.ch/tags/f%C3%A9minisme\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>féminisme</span></a>, la <a href=\"https://tooting.ch/tags/neurodiversit%C3%A9\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>neurodiversité</span></a>, la <a href=\"https://tooting.ch/tags/philosophie\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophie</span></a>, l'<a href=\"https://tooting.ch/tags/%C3%A9cologie\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>écologie</span></a>, l' <a href=\"https://tooting.ch/tags/%C3%A9pist%C3%A9mologie\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>épistémologie</span></a>, l'<a href=\"https://tooting.ch/tags/histoire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>histoire</span></a>,  et les <a href=\"https://tooting.ch/tags/mammouths\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mammouths</span></a>. 🦣</p><p>Illustration de profil par <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.art/@lokigwyn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lokigwyn</span></a></span>  <a href=\"https://pixelfed.fr/p/Lokigwyn/787367557465527655\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pixelfed.fr/p/Lokigwyn/7873675</span><span class=\"invisible\">57465527655</span></a><br>Je parle 🇫🇷<br>I speak 🇺🇲<br>Ich komme zurecht in 🇩🇪</p>",
+            "url": "https://tooting.ch/@ariane",
+            "uri": "https://tooting.ch/users/ariane",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/000/054/504/original/aacfc6b828200541.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/000/054/504/original/aacfc6b828200541.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/000/054/504/original/c82deff281ed93e3.jpg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/000/054/504/original/c82deff281ed93e3.jpg",
+            "followers_count": 637,
+            "following_count": 1382,
+            "statuses_count": 5160,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [
+                {
+                    "shortcode": "unverified",
+                    "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/148/688/original/25fa8f615462b8b3.png",
+                    "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/148/688/static/25fa8f615462b8b3.png",
+                    "visible_in_picker": true
+                },
+                {
+                    "shortcode": "ch_Vaud",
+                    "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/148/749/original/2a58d079552e3e96.png",
+                    "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/148/749/static/2a58d079552e3e96.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "fields": [
+                {
+                    "name": "Signal",
+                    "value": "Autiste_a_VauD_L_eau.66",
+                    "verified_at": null
+                },
+                {
+                    "name": "ariadne2022@diaspora-fr.org",
+                    "value": "<a href=\"https://diaspora-fr.org/people/e5b681d0854b013a59800025900e4586\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">diaspora-fr.org/people/e5b681d</span><span class=\"invisible\">0854b013a59800025900e4586</span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Mes lectures @Bookwyrms",
+                    "value": "<a href=\"https://bookwyrm.social/user/Autiste_VaudLeau\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bookwyrm.social/user/Autiste_V</span><span class=\"invisible\">audLeau</span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Pixelfeed",
+                    "value": "<a href=\"https://pixelfed.ch/autistevaudleau\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.ch/autistevaudleau</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "harcelement",
+                "url": "https://mastodont.cat/tags/harcelement"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082043058259679",
+        "created_at": "2025-02-28T14:43:49.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "es",
+        "uri": "https://masto.es/users/planetacunao/statuses/114082042991856961",
+        "url": "https://masto.es/@planetacunao/114082042991856961",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Feliz Día de Andalucía.<br>Perdón que felicite tan tarde, me acabo de levantar ahora que ayer tuve que ir temprano a recoger el PER y tenía que descansar.<br>Felicidades a los que no les tocó el gordo y se quedaron con las aproximaciones: murcianos y extremaños.</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "109450357072129031",
+            "username": "planetacunao",
+            "acct": "planetacunao@masto.es",
+            "display_name": "Planeta Cuñao :planetacunyao:",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2022-12-03T00:00:00.000Z",
+            "note": "<p>Podcast de humor y divulgación sobre temas interesantes llenos de curiosidades.<br>Enlaces: <a href=\"https://beacons.ai/planetacunao\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">beacons.ai/planetacunao</span><span class=\"invisible\"></span></a><br>Premio Mejor Pódcast de Humor de la Asociación Pódcasts (2020 y 2022).</p>",
+            "url": "https://masto.es/@planetacunao",
+            "uri": "https://masto.es/users/planetacunao",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/450/357/072/129/031/original/e382a326ee00647b.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/450/357/072/129/031/original/e382a326ee00647b.jpg",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/109/450/357/072/129/031/original/8caf62822632cf3a.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/450/357/072/129/031/original/8caf62822632cf3a.png",
+            "followers_count": 602,
+            "following_count": 114,
+            "statuses_count": 662,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [
+                {
+                    "shortcode": "planetacunyao",
+                    "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/193/027/original/12518cd268dfb8d8.png",
+                    "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/193/027/static/12518cd268dfb8d8.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "fields": [
+                {
+                    "name": "🌐 WEB",
+                    "value": "<a href=\"http://planetacunao.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">planetacunao.com</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "🎧 ESCÚCHANOS GRATIS",
+                    "value": "<a href=\"https://beacons.ai/planetacunao\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">beacons.ai/planetacunao</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "🛒 TIENDA OFICIAL",
+                    "value": "<a href=\"https://www.latostadora.com/shop/tiendaplanetacunao/?shop_trk\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">latostadora.com/shop/tiendapla</span><span class=\"invisible\">netacunao/?shop_trk</span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082043057232561",
+        "created_at": "2025-02-28T14:43:49.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://mas.to/users/Ask_aubry/statuses/114082042958655465",
+        "url": "https://mas.to/@Ask_aubry/114082042958655465",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Abusers often isolate their victims first.</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "109325372474307109",
+            "username": "Ask_aubry",
+            "acct": "Ask_aubry@mas.to",
+            "display_name": "Ask Aubry 🦝",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2022-11-11T00:00:00.000Z",
+            "note": "<p>Curator of WTFs &amp; Trash Takes</p><p>Superpower: Snark. Peddler of Petty.</p><p>Got a submission? Aubry@AskAubry.com</p><p>Buy me a coffee will ya? <a href=\"http://bit.ly/3zARvCy\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">bit.ly/3zARvCy</span><span class=\"invisible\"></span></a></p>",
+            "url": "https://mas.to/@Ask_aubry",
+            "uri": "https://mas.to/users/Ask_aubry",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/325/372/474/307/109/original/a286376374265aa8.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/325/372/474/307/109/original/a286376374265aa8.jpg",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/109/325/372/474/307/109/original/69c23c79520f344d.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/325/372/474/307/109/original/69c23c79520f344d.png",
+            "followers_count": 3746,
+            "following_count": 3081,
+            "statuses_count": 1276,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "Where you can find me",
+                    "value": "<a href=\"https://linktr.ee/askaubry\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">linktr.ee/askaubry</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "114082043008278697",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/043/008/278/697/original/3c4d8686da2d1b37.png",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/043/008/278/697/small/3c4d8686da2d1b37.png",
+                "remote_url": "https://media.mas.to/media_attachments/files/114/082/042/913/418/235/original/ed90e79020d2f1ce.png",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 970,
+                        "height": 1208,
+                        "size": "970x1208",
+                        "aspect": 0.8029801324503312
+                    },
+                    "small": {
+                        "width": 430,
+                        "height": 536,
+                        "size": "430x536",
+                        "aspect": 0.8022388059701493
+                    }
+                },
+                "description": "r/TwoHotTakes u/Puzzled_Ninja4085. 12h My Husband Says I'm Enmeshed Listener Write In I, 26 female, and husband, 25 male have been married for one year. We bought a house less than a year ago and everything has been great. We met during COVID and that really sped our relationship along. We dated and were married in 2 years. Before we started dating, I would hang out with my sister, 24 female,pretty much everyday. I would text or call her and my mom most days. After about 6 months of dating, my husband brought to my attention that we spend most of our time with my family. I saw his point and did my best to include his family in our free time. As we went on, he started to make comments about how I didn't need to call my mom everyday or how I'm in constant contact with my mom and sister. They are my best friends and I didn't find that weird. I did cut back to calling my mom once a week and not spending all evening texting my sister. My sister was single too, so we were so close. I think t",
+                "blurhash": "U26kYK^QX,J7vg,@xaJ7_3$%%gNa%2oLaeWV"
+            },
+            {
+                "id": "114082043030784110",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/043/030/784/110/original/f5a74e769b22bf74.png",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/043/030/784/110/small/f5a74e769b22bf74.png",
+                "remote_url": "https://media.mas.to/media_attachments/files/114/082/042/920/038/373/original/426ece74f2e21a21.png",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 996,
+                        "height": 1239,
+                        "size": "996x1239",
+                        "aspect": 0.8038740920096852
+                    },
+                    "small": {
+                        "width": 430,
+                        "height": 535,
+                        "size": "430x535",
+                        "aspect": 0.8037383177570093
+                    }
+                },
+                "description": "was going fine until he would start looking at my calls and texts. Then he would say, \"You called your mom twice this week.\" And usually it was for something important, so I didn't see an issue. But to him this was me \"breaking boundaries.\" In the years we've been together, he constantly goes through my phone and gets so upset when he sees texts or calls to my family, if I bring up a story about them, etc. He thinks my whole world revolves around them. When I don't really talk to them except for a couple snapchats, texts, and a phone call a week. Now a year-ish later and we are in our new house, we are constantly fighting about this. So much so, that he will sleep in a different room. My sister is getting married and he threw a fit when I went to the bachelorette party, the bridal showers, and even the rehearsal dinner. I want to be there for her, she means so much to me. I want to spend time with my parents, because they won't be here for forever & I don't want to have regrets when th",
+                "blurhash": "U26H[lxuJ7ayt7fQWBj[?^ayx]j[t7ayWBj["
+            }
+        ],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082042090270688",
+        "created_at": "2025-02-28T14:43:35.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "es",
+        "uri": "https://mastodon.social/users/Edgecontrol/statuses/114082042032115512",
+        "url": "https://mastodon.social/@Edgecontrol/114082042032115512",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p><a href=\"https://www.rtbf.be/article/la-journee-mondiale-sans-facebook-quel-est-l-avenir-de-la-plateforme-et-ses-enjeux-sur-la-societe-11510937\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">rtbf.be/article/la-journee-mon</span><span class=\"invisible\">diale-sans-facebook-quel-est-l-avenir-de-la-plateforme-et-ses-enjeux-sur-la-societe-11510937</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "114161",
+            "username": "Edgecontrol",
+            "acct": "Edgecontrol@mastodon.social",
+            "display_name": "Edgecontrol🇵🇸🛹",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": false,
+            "group": false,
+            "created_at": "2019-11-27T00:00:00.000Z",
+            "note": "<p>Skate all day</p>",
+            "url": "https://mastodon.social/@Edgecontrol",
+            "uri": "https://mastodon.social/users/Edgecontrol",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/000/114/161/original/39ccf2cb653c3645.jpeg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/000/114/161/original/39ccf2cb653c3645.jpeg",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/000/114/161/original/f755dad8d3e3f28d.jpeg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/000/114/161/original/f755dad8d3e3f28d.jpeg",
+            "followers_count": 1535,
+            "following_count": 1716,
+            "statuses_count": 214898,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082041608625691",
+        "created_at": "2025-02-28T14:43:08.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://sunny.garden/users/anubiarts/statuses/114082040286237833",
+        "url": "https://sunny.garden/@anubiarts/114082040286237833",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>as an apology for yesterday's post, I offer you this anubi- oh god</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "113516253839976924",
+            "username": "anubiarts",
+            "acct": "anubiarts@sunny.garden",
+            "display_name": "Anubi",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2024-11-20T00:00:00.000Z",
+            "note": "<p>Silly Trans/Bigender Pixel Artist that speaks both Spanish and English (mainly English around here)</p><p>[This is my new account! The mastodon.social one is currently deprecated]</p><p>No \"AI Art\"/Crypto stuff around here, just natural silliness</p><p>Repost tag is <a href=\"https://sunny.garden/tags/OldieButGoldie\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OldieButGoldie</span></a> , if you don't want reposts from me on your feed mute that tag!</p><p>Art Tags:<br><a href=\"https://sunny.garden/tags/PixelArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PixelArt</span></a> <a href=\"https://sunny.garden/tags/Art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Art</span></a> <a href=\"https://sunny.garden/tags/Redraw\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Redraw</span></a></p>",
+            "url": "https://sunny.garden/@anubiarts",
+            "uri": "https://sunny.garden/users/anubiarts",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/113/516/253/839/976/924/original/5ad29d53dcfec564.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/113/516/253/839/976/924/original/5ad29d53dcfec564.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/113/516/253/839/976/924/original/b9cfe0ce3cd090ef.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/113/516/253/839/976/924/original/b9cfe0ce3cd090ef.png",
+            "followers_count": 4184,
+            "following_count": 55,
+            "statuses_count": 360,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "Pronouns",
+                    "value": "She/They",
+                    "verified_at": null
+                },
+                {
+                    "name": "Support Me Here!",
+                    "value": "<a href=\"https://ko-fi.com/anubiarts\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/anubiarts</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Carrd Website",
+                    "value": "<a href=\"https://anubiarts.carrd.co/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">anubiarts.carrd.co/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "114082041552619230",
+                "type": "gifv",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/552/619/230/original/010c6cf33d889144.mp4",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/552/619/230/small/010c6cf33d889144.png",
+                "remote_url": "https://media.mastodon.sunny.garden/media_attachments/files/114/082/011/983/505/074/original/c12e8c11e6e0b233.mp4",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "focus": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "original": {
+                        "width": 768,
+                        "height": 768,
+                        "frame_rate": "10/1",
+                        "duration": 1.8,
+                        "bitrate": 137204
+                    },
+                    "small": {
+                        "width": 640,
+                        "height": 640,
+                        "size": "640x640",
+                        "aspect": 1.0
+                    }
+                },
+                "description": "Tiny Anubi lying on the floor, tired. She explodes a second after thinking.\n\nNO DOUBLE STUNTS WERE HARMED ON THIS PIECE! My lawyers adviced me to not speak about the real Anubi though.",
+                "blurhash": "U9NTaIs,?t%z%2jtWBay_Loz9GR5offQt7oL"
+            }
+        ],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082041514061199",
+        "created_at": "2025-02-28T14:43:23.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": null,
+        "uri": "https://pixelfed.social/p/Laurrentiu/801099495052144085",
+        "url": "https://pixelfed.social/p/Laurrentiu/801099495052144085",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "Mosses<br>\n<a href=\"https://pixelfed.social/discover/tags/mosses?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#mosses</a> <a href=\"https://pixelfed.social/discover/tags/color?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#color</a> <a href=\"https://pixelfed.social/discover/tags/closeup?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#closeup</a> <a href=\"https://pixelfed.social/discover/tags/beautiful?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#beautiful</a> <a href=\"https://pixelfed.social/discover/tags/photo?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#photo</a> <a href=\"https://pixelfed.social/discover/tags/photography?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#photography</a> <a href=\"https://pixelfed.social/discover/tags/picture?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#picture</a> <a href=\"https://pixelfed.social/discover/tags/image?src=hash\" class=\"u-url hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#image</a>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "112059771775043108",
+            "username": "Laurrentiu",
+            "acct": "Laurrentiu@pixelfed.social",
+            "display_name": "Laurentiu",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": true,
+            "group": false,
+            "created_at": "2024-03-08T00:00:00.000Z",
+            "note": "All photos are mine, all rights reserved.\n\nDue to the increasingly extensive capabilities of artificial intelligence and the growing accessibility of it to people, I feel compelled to change my profile picture.",
+            "url": "https://pixelfed.social/Laurrentiu",
+            "uri": "https://pixelfed.social/users/Laurrentiu",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/112/059/771/775/043/108/original/4443d88df01b94f9.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/112/059/771/775/043/108/original/4443d88df01b94f9.png",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "followers_count": 217,
+            "following_count": 4,
+            "statuses_count": 2794,
+            "last_status_at": "2025-02-28",
+            "hide_collections": true,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [
+            {
+                "id": "114082041485734587",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/485/734/587/original/a9fd57d2ac5f11bf.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/485/734/587/small/a9fd57d2ac5f11bf.jpg",
+                "remote_url": "https://pixelfed.social/storage/m/_v2/671641635882836993/758e75a50-ddd61a/atZVVlZ4CqZO/eXXqORDkTD4ygGl3ybmpyds1VrI2FfhyAwAlXg0j.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 1440,
+                        "height": 1080,
+                        "size": "1440x1080",
+                        "aspect": 1.3333333333333333
+                    },
+                    "small": {
+                        "width": 554,
+                        "height": 416,
+                        "size": "554x416",
+                        "aspect": 1.3317307692307692
+                    }
+                },
+                "description": "Mosses, closeup, color, photo",
+                "blurhash": "URCHAJ.5RUXM$msqf*W-M$j@o[oL.fx?e;t5"
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "photography",
+                "url": "https://mastodont.cat/tags/photography"
+            },
+            {
+                "name": "closeup",
+                "url": "https://mastodont.cat/tags/closeup"
+            },
+            {
+                "name": "photo",
+                "url": "https://mastodont.cat/tags/photo"
+            },
+            {
+                "name": "color",
+                "url": "https://mastodont.cat/tags/color"
+            },
+            {
+                "name": "beautiful",
+                "url": "https://mastodont.cat/tags/beautiful"
+            },
+            {
+                "name": "picture",
+                "url": "https://mastodont.cat/tags/picture"
+            },
+            {
+                "name": "image",
+                "url": "https://mastodont.cat/tags/image"
+            },
+            {
+                "name": "Mosses",
+                "url": "https://mastodont.cat/tags/Mosses"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082041370585063",
+        "created_at": "2025-02-28T14:43:22.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://tldr.nettime.org/users/asrg/statuses/114082041212031592",
+        "url": "https://tldr.nettime.org/@asrg/114082041212031592",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Trapping AI: A Guide to Implementing a Structured Poisoning Mechanism in Static Websites</p><p>This guide provides a detailed examination of the implementation of a structured poisoning mechanism within static websites hosted on GitHub Pages and generated using Hugo.</p><p>The approach employs Markov-chain-based Quixotic to feed deceptive content to persistent bots and aggressive “AI” scrapers that circumvent robots.txt directives.</p><p>This implementation follows the methodological framework outlined by <span class=\"h-card\" translate=\"no\"><a href=\"https://scholar.social/@gedankenstuecke\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gedankenstuecke</span></a></span>, available at: <a href=\"https://tzovar.as/algorithmic-sabotage-ssg/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tzovar.as/algorithmic-sabotage</span><span class=\"invisible\">-ssg/</span></a>.</p><p>For further details, visit: <a href=\"https://algorithmic-sabotage.github.io/asrg/trapping-ai/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">algorithmic-sabotage.github.io</span><span class=\"invisible\">/asrg/trapping-ai/</span></a>.</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "112072408699289687",
+            "username": "asrg",
+            "acct": "asrg@tldr.nettime.org",
+            "display_name": "ASRG",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2024-03-07T00:00:00.000Z",
+            "note": "<p>The Algorithmic Sabotage Research Group (ASRG) is an ongoing, conspiratorial, aesthetico-political, practice-led research framework focused on the intersection of digital culture and information technology.</p>",
+            "url": "https://tldr.nettime.org/@asrg",
+            "uri": "https://tldr.nettime.org/users/asrg",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/112/072/408/699/289/687/original/1966e13cc2629a52.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/112/072/408/699/289/687/original/1966e13cc2629a52.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/112/072/408/699/289/687/original/34ef1c6edf162cd1.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/112/072/408/699/289/687/original/34ef1c6edf162cd1.png",
+            "followers_count": 1108,
+            "following_count": 0,
+            "statuses_count": 51,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "WEBSITE",
+                    "value": "<a href=\"https://algorithmic-sabotage.github.io/asrg/about/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">algorithmic-sabotage.github.io</span><span class=\"invisible\">/asrg/about/</span></a>",
+                    "verified_at": "2025-02-25T18:37:48.126+00:00"
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "114082041339014010",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/339/014/010/original/4ca860ec9607aba8.jpeg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/339/014/010/small/4ca860ec9607aba8.jpeg",
+                "remote_url": "https://tldr.nettime.org/system_nettime/media_attachments/files/114/082/040/338/019/989/original/8b936ceae400292e.jpeg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "focus": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "original": {
+                        "width": 1509,
+                        "height": 1374,
+                        "size": "1509x1374",
+                        "aspect": 1.0982532751091703
+                    },
+                    "small": {
+                        "width": 503,
+                        "height": 458,
+                        "size": "503x458",
+                        "aspect": 1.0982532751091703
+                    }
+                },
+                "description": "Joseph Racknitz, The Mechanical Turk, 1789. Public domain.",
+                "blurhash": "UEHxZ-xt~qt7_3WBIUf5_MofM{R*M{j[t7t7"
+            }
+        ],
+        "mentions": [
+            {
+                "id": "135568",
+                "username": "gedankenstuecke",
+                "url": "https://scholar.social/@gedankenstuecke",
+                "acct": "gedankenstuecke@scholar.social"
+            }
+        ],
+        "tags": [],
+        "emojis": [],
+        "card": {
+            "url": "https://tzovar.as/algorithmic-sabotage-ssg/",
+            "title": "Algorithmic sabotage for static sites",
+            "description": "tl;dr: Here’s a how-to for adding some “AI”-poison to your static site that’s hosted on Codeberg Pages (or GitHub Pages). I’d appreciate some feedback on if this is useful/how it could be improved. If you’re running any type of website in 2025, you’ll likely be suffering from the impact of...",
+            "language": "en",
+            "type": "link",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "Bastian Greshake Tzovaras",
+            "provider_url": "",
+            "html": "",
+            "width": 586,
+            "height": 393,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/036/104/original/3d33a8870db1d6bb.jpg",
+            "image_description": "a black and white photo of a vintage car parked behind a fence",
+            "embed_url": "",
+            "blurhash": "U9Dl{3_34n9F00IUWBxut7WBt7xuIUD%xut7",
+            "published_at": null,
+            "authors": [
+                {
+                    "name": "",
+                    "url": "",
+                    "account": {
+                        "id": "135568",
+                        "username": "gedankenstuecke",
+                        "acct": "gedankenstuecke@scholar.social",
+                        "display_name": "Bastian Greshake Tzovaras",
+                        "locked": false,
+                        "bot": false,
+                        "discoverable": true,
+                        "indexable": true,
+                        "group": false,
+                        "created_at": "2019-05-28T00:00:00.000Z",
+                        "note": "<p>Researcher &amp; <a href=\"https://scholar.social/tags/Luddite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Luddite</span></a> interested in theory &amp; practice of <a href=\"https://scholar.social/tags/peerproduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>peerproduction</span></a>. Lover of all things open 💖: <a href=\"https://scholar.social/tags/openscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openscience</span></a> <a href=\"https://scholar.social/tags/citizenscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>citizenscience</span></a> <a href=\"https://scholar.social/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> &amp; <a href=\"https://scholar.social/tags/openstreetmap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openstreetmap</span></a> <a href=\"https://scholar.social/tags/openculture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openculture</span></a> :cc_zero: :OpenAccess: :scihub: 🏳️‍⚧️</p><p>Director of Research for the Open Humans Foundation &amp; co-founder of openSNP.org. Previously @ Alan Turing Institute &amp; INSERM. </p><p>In a former life I did <a href=\"https://scholar.social/tags/Bioinformatics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bioinformatics</span></a>|<a href=\"https://scholar.social/tags/Ecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ecology</span></a>|<a href=\"https://scholar.social/tags/Evolution\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Evolution</span></a>. When not researching, I love doing <a href=\"https://scholar.social/tags/photography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>photography</span></a> and still <a href=\"https://scholar.social/tags/BelieveInFilm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BelieveInFilm</span></a> 🎞️</p><p>searchable</p>",
+                        "url": "https://scholar.social/@gedankenstuecke",
+                        "uri": "https://scholar.social/users/gedankenstuecke",
+                        "avatar": "https://mastodont.cat/system/cache/accounts/avatars/000/135/568/original/0e09ace3c0559484.jpg",
+                        "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/000/135/568/original/0e09ace3c0559484.jpg",
+                        "header": "https://mastodont.cat/system/cache/accounts/headers/000/135/568/original/604c73ce417b98e9.jpg",
+                        "header_static": "https://mastodont.cat/system/cache/accounts/headers/000/135/568/original/604c73ce417b98e9.jpg",
+                        "followers_count": 1590,
+                        "following_count": 686,
+                        "statuses_count": 6348,
+                        "last_status_at": "2025-02-27",
+                        "hide_collections": false,
+                        "emojis": [
+                            {
+                                "shortcode": "cc_zero",
+                                "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/012/259/original/87094249ca7ee984.png",
+                                "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/012/259/static/87094249ca7ee984.png",
+                                "visible_in_picker": true
+                            },
+                            {
+                                "shortcode": "OpenAccess",
+                                "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/013/367/original/3ed9281bda6d3fb8.png",
+                                "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/013/367/static/3ed9281bda6d3fb8.png",
+                                "visible_in_picker": true
+                            },
+                            {
+                                "shortcode": "scihub",
+                                "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/008/312/original/f5246dfd9580628b.png",
+                                "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/008/312/static/f5246dfd9580628b.png",
+                                "visible_in_picker": true
+                            },
+                            {
+                                "shortcode": "earth",
+                                "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/150/488/original/74b863b4074bc80f.png",
+                                "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/150/488/static/74b863b4074bc80f.png",
+                                "visible_in_picker": true
+                            }
+                        ],
+                        "fields": [
+                            {
+                                "name": "Location :earth:",
+                                "value": "Currently: 🇦🇷 | previously: 🇬🇧, 🇫🇷,  🇺🇸, 🇩🇪",
+                                "verified_at": null
+                            },
+                            {
+                                "name": "Website",
+                                "value": "<a href=\"https://tzovar.as/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">tzovar.as/</span><span class=\"invisible\"></span></a>",
+                                "verified_at": "2025-02-27T16:08:21.989+00:00"
+                            },
+                            {
+                                "name": "Codeberg 🗻",
+                                "value": "<a href=\"https://codeberg.org/gedankenstuecke/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/gedankenstuecke/</span><span class=\"invisible\"></span></a>",
+                                "verified_at": "2025-02-27T16:08:22.181+00:00"
+                            },
+                            {
+                                "name": "support my work:",
+                                "value": "<a href=\"https://ko-fi.com/gedankenstuecke\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ko-fi.com/gedankenstuecke</span><span class=\"invisible\"></span></a>",
+                                "verified_at": null
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "poll": null
+    },
+    {
+        "id": "114082041067535943",
+        "created_at": "2025-02-28T14:43:18.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://mas.to/users/SmudgeTheInsultCat/statuses/114082040948786629",
+        "url": "https://mas.to/@SmudgeTheInsultCat/114082040948786629",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "109338278063557363",
+            "username": "SmudgeTheInsultCat",
+            "acct": "SmudgeTheInsultCat@mas.to",
+            "display_name": "Smudge The Insult Cat 🐀",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": false,
+            "group": false,
+            "created_at": "2022-11-11T00:00:00.000Z",
+            "note": "",
+            "url": "https://mas.to/@SmudgeTheInsultCat",
+            "uri": "https://mas.to/users/SmudgeTheInsultCat",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/338/278/063/557/363/original/bac945ad1c8f81d5.jpeg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/338/278/063/557/363/original/bac945ad1c8f81d5.jpeg",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/109/338/278/063/557/363/original/21cdffba25594cac.jpg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/338/278/063/557/363/original/21cdffba25594cac.jpg",
+            "followers_count": 11386,
+            "following_count": 941,
+            "statuses_count": 6954,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [
+            {
+                "id": "114082041046861537",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/046/861/537/original/fb6aea068eac6162.png",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/041/046/861/537/small/fb6aea068eac6162.png",
+                "remote_url": "https://media.mas.to/media_attachments/files/114/082/040/584/239/408/original/63b0e420411cd611.png",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 720,
+                        "height": 1189,
+                        "size": "720x1189",
+                        "aspect": 0.6055508830950378
+                    },
+                    "small": {
+                        "width": 374,
+                        "height": 617,
+                        "size": "374x617",
+                        "aspect": 0.6061588330632091
+                    }
+                },
+                "description": "Add recipient elon@eatshitnazi.gov What I got done this week 1. Had an abortion 2. Went to school and had a sex change 3. Collected social security for my great great great grandmother who died 150 years ago 4. Had another abortion 5. Ate my neighbors cat 6. All time high score on Diablo IV 7. Had 3 babies 8. Did some woke DEl shit 9. Took public bus to public library 10. Faked some climate change science",
+                "blurhash": "U7QJiy4T^,^+^,nOsAxa?bnhROni?IVsxus:"
+            }
+        ],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082040705758685",
+        "created_at": "2025-02-28T14:43:13.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://mastodon.hongkongers.net/users/cbcbc_mirror/statuses/114082040631845862",
+        "url": "https://mastodon.hongkongers.net/@cbcbc_mirror/114082040631845862",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Pipelines seem more popular amid Trump's threats. But does it make sense to build new ones?<br>Political tensions have opened up space to talk more favourably about new pipelines in Canada. But does building new oil infrastructure make sense as the world transitions to clean energy?<br><a href=\"https://mastodon.hongkongers.net/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a> <a href=\"https://mastodon.hongkongers.net/tags/energy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>energy</span></a> <a href=\"https://mastodon.hongkongers.net/tags/infrastructure\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infrastructure</span></a> <a href=\"https://mastodon.hongkongers.net/tags/economy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>economy</span></a> <a href=\"https://mastodon.hongkongers.net/tags/Canada\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canada</span></a> <a href=\"https://mastodon.hongkongers.net/tags/News\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>News</span></a><br><a href=\"https://www.cbc.ca/news/science/pipeline-popular-clean-energy-transition-1.7470684?cmp=rss\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cbc.ca/news/science/pipeline-p</span><span class=\"invisible\">opular-clean-energy-transition-1.7470684?cmp=rss</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "111073123603304382",
+            "username": "cbcbc_mirror",
+            "acct": "cbcbc_mirror@mastodon.hongkongers.net",
+            "display_name": "CBC British Columbia",
+            "locked": false,
+            "bot": true,
+            "discoverable": false,
+            "indexable": true,
+            "group": false,
+            "created_at": "2023-08-12T00:00:00.000Z",
+            "note": "<p>。。。RSS Robot — not a real account。。。</p><p>CBC British Columbia</p>",
+            "url": "https://mastodon.hongkongers.net/@cbcbc_mirror",
+            "uri": "https://mastodon.hongkongers.net/users/cbcbc_mirror",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/111/073/123/603/304/382/original/bb239db4d1dea132.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/111/073/123/603/304/382/original/bb239db4d1dea132.jpg",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "followers_count": 157,
+            "following_count": 0,
+            "statuses_count": 7523,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [
+            {
+                "id": "114082040690810306",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/690/810/306/original/fb23b319d35de832.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/690/810/306/small/fb23b319d35de832.jpg",
+                "remote_url": "https://files.hongkongers.net/media_attachments/files/114/082/040/619/615/570/original/e180788b562a09c8.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 620,
+                        "height": 349,
+                        "size": "620x349",
+                        "aspect": 1.7765042979942693
+                    },
+                    "small": {
+                        "width": 620,
+                        "height": 349,
+                        "size": "620x349",
+                        "aspect": 1.7765042979942693
+                    }
+                },
+                "description": null,
+                "blurhash": "UkDTFot7M|a#.AaeWBof-=aeRjoKx]aeWBae"
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "politics",
+                "url": "https://mastodont.cat/tags/politics"
+            },
+            {
+                "name": "energy",
+                "url": "https://mastodont.cat/tags/energy"
+            },
+            {
+                "name": "infrastructure",
+                "url": "https://mastodont.cat/tags/infrastructure"
+            },
+            {
+                "name": "economy",
+                "url": "https://mastodont.cat/tags/economy"
+            },
+            {
+                "name": "canada",
+                "url": "https://mastodont.cat/tags/canada"
+            },
+            {
+                "name": "news",
+                "url": "https://mastodont.cat/tags/news"
+            }
+        ],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082040674529519",
+        "created_at": "2025-02-28T14:43:13.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://indieweb.social/users/jbz/statuses/114082040623300702",
+        "url": "https://indieweb.social/@jbz/114082040623300702",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Mozilla kept poking the bear and the bear finally poked back.</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "112537521465033567",
+            "username": "jbz",
+            "acct": "jbz@indieweb.social",
+            "display_name": "jbz",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2024-05-31T00:00:00.000Z",
+            "note": "<p>🔮 Herding bits and cats • Indiehacker • Elixir • Opensource es/en/pt</p>",
+            "url": "https://indieweb.social/@jbz",
+            "uri": "https://indieweb.social/users/jbz",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/112/537/521/465/033/567/original/deae0b4f73dbfb70.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/112/537/521/465/033/567/original/deae0b4f73dbfb70.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/112/537/521/465/033/567/original/b608576bc89f0c48.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/112/537/521/465/033/567/original/b608576bc89f0c48.png",
+            "followers_count": 1544,
+            "following_count": 422,
+            "statuses_count": 2664,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "🧑‍💻 Codeberg",
+                    "value": "<a href=\"https://codeberg.org/jbz\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/jbz</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "🔗 Links",
+                    "value": "<a href=\"https://jbz.sh\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">jbz.sh</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2025-02-21T21:06:05.167+00:00"
+                },
+                {
+                    "name": "🗣️ Pronouns",
+                    "value": "He/him",
+                    "verified_at": null
+                },
+                {
+                    "name": "😸 How many cats?",
+                    "value": "YES",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082040449018305",
+        "created_at": "2025-02-28T14:43:08.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "fr",
+        "uri": "https://mastodon.social/users/DoubleSuperCombo/statuses/114082040301783437",
+        "url": "https://mastodon.social/@DoubleSuperCombo/114082040301783437",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "113872906513348729",
+            "username": "DoubleSuperCombo",
+            "acct": "DoubleSuperCombo@mastodon.social",
+            "display_name": "Double Super Combo",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2025-01-10T00:00:00.000Z",
+            "note": "<p>Corrélations non-locales</p>",
+            "url": "https://mastodon.social/@DoubleSuperCombo",
+            "uri": "https://mastodon.social/users/DoubleSuperCombo",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/113/872/906/513/348/729/original/58ade55d5ecf9d3e.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/113/872/906/513/348/729/original/58ade55d5ecf9d3e.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/113/872/906/513/348/729/original/b8dfa65207559164.png",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/113/872/906/513/348/729/original/b8dfa65207559164.png",
+            "followers_count": 1846,
+            "following_count": 4391,
+            "statuses_count": 238,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [
+            {
+                "id": "114082040426697360",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/426/697/360/original/520f4ac2e3b5755d.png",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/426/697/360/small/520f4ac2e3b5755d.png",
+                "remote_url": "https://files.mastodon.social/media_attachments/files/114/082/039/895/341/581/original/0b350092589af1a5.png",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 510,
+                        "height": 600,
+                        "size": "510x600",
+                        "aspect": 0.85
+                    },
+                    "small": {
+                        "width": 443,
+                        "height": 521,
+                        "size": "443x521",
+                        "aspect": 0.8502879078694817
+                    }
+                },
+                "description": null,
+                "blurhash": "U6Awl1TbInobT8tlS~t7%yx[I;oy*0tKIVs;"
+            },
+            {
+                "id": "114082040437911534",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/437/911/534/original/2c739227dcd44d66.png",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/437/911/534/small/2c739227dcd44d66.png",
+                "remote_url": "https://files.mastodon.social/media_attachments/files/114/082/040/017/467/056/original/5d97b9db2202d52c.png",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 481,
+                        "height": 600,
+                        "size": "481x600",
+                        "aspect": 0.8016666666666666
+                    },
+                    "small": {
+                        "width": 430,
+                        "height": 536,
+                        "size": "430x536",
+                        "aspect": 0.8022388059701493
+                    }
+                },
+                "description": null,
+                "blurhash": "U9E3M4%#00Di--NGWEV[IURQo#t6IU-;tSWB"
+            }
+        ],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082040434890297",
+        "created_at": "2025-02-28T14:43:08.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "de",
+        "uri": "https://mastodon.social/users/nahost_live_tagesschau/statuses/114082040279965328",
+        "url": "https://mastodon.social/@nahost_live_tagesschau/114082040279965328",
+        "replies_count": 1,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Libanons Regierungschef fordert vollständigen Truppenabzug Israels</p><p>Der neue libanesische Ministerpräsident Nauaf Salam hat bei einem Besuch im Grenzgebiet zu Israel einen vollständigen israelischen Truppenabzug aus der Gegend gefordert. Sonst werde es keine echte und anhaltende Stabilität geben, betonte Salam in der südlibanesischen Hafenstadt Tyros, wo er mit Bewohnern des Grenzorts Dhe…</p><p>🔗 <a href=\"https://www.tagesschau.de/ausland/asien/israel-rueckzug-libanon-102.html?at_medium=mastodon&amp;at_campaign=tagesschau.de\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tagesschau.de/ausland/asien/is</span><span class=\"invisible\">rael-rueckzug-libanon-102.html?at_medium=mastodon&amp;at_campaign=tagesschau.de</span></a></p><p>📑 <a href=\"https://www.tagesschau.de/newsticker/liveblog-nahost-freitag-238.html?at_medium=mastodon&amp;at_campaign=tagesschau.de#Libanons-Regierungschef-fordert-vollstaendigen-Truppenabzug-Israels\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tagesschau.de/newsticker/liveb</span><span class=\"invisible\">log-nahost-freitag-238.html?at_medium=mastodon&amp;at_campaign=tagesschau.de#Libanons-Regierungschef-fordert-vollstaendigen-Truppenabzug-Israels</span></a><br>🕞 28.02. 15:41 CET</p><p><a href=\"https://mastodon.social/tags/Nahost\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nahost</span></a> <a href=\"https://mastodon.social/tags/Israel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Israel</span></a> <a href=\"https://mastodon.social/tags/Gaza\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gaza</span></a> <a href=\"https://mastodon.social/tags/tagesschau\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tagesschau</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "112268385972390311",
+            "username": "nahost_live_tagesschau",
+            "acct": "nahost_live_tagesschau@mastodon.social",
+            "display_name": "tagesschau Nahost Liveblog",
+            "locked": false,
+            "bot": true,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2024-01-27T00:00:00.000Z",
+            "note": "<p>Alle Nachrichten aus dem Nahost-Liveblog von <a href=\"https://www.tagesschau.de\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">tagesschau.de</span><span class=\"invisible\"></span></a> in Echtzeit.</p><p>Inoffizieller Account, wird nicht von tagesschau.de betrieben.<br>Bilder &amp; Inhalte © ARD / tagesschau.de</p><p>Anmerkungen, Fehlermeldungen und Fragen gerne als Direktnachricht an diesen Account.</p><p>Alter Account (umgezogen am 12. April 2024): <span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@israel_live_tagesschau\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>israel_live_tagesschau</span></a></span>.</p><p><a href=\"https://mastodon.social/tags/tagesschau\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tagesschau</span></a> <a href=\"https://mastodon.social/tags/ARD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ARD</span></a> <a href=\"https://mastodon.social/tags/Nachrichten\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nachrichten</span></a> <a href=\"https://mastodon.social/tags/Aktuelles\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aktuelles</span></a> <a href=\"https://mastodon.social/tags/News\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>News</span></a> <a href=\"https://mastodon.social/tags/FediNews\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediNews</span></a> <a href=\"https://mastodon.social/tags/Newstodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Newstodon</span></a> <a href=\"https://mastodon.social/tags/Presse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Presse</span></a> <a href=\"https://mastodon.social/tags/Live\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Live</span></a> <a href=\"https://mastodon.social/tags/Liveblog\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Liveblog</span></a> <a href=\"https://mastodon.social/tags/Nahost\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nahost</span></a> <a href=\"https://mastodon.social/tags/Israel\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Israel</span></a> <a href=\"https://mastodon.social/tags/Gaza\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gaza</span></a> <a href=\"https://mastodon.social/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a> searchable</p>",
+            "url": "https://mastodon.social/@nahost_live_tagesschau",
+            "uri": "https://mastodon.social/users/nahost_live_tagesschau",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/112/268/385/972/390/311/original/0241fd0c3aac8a7a.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/112/268/385/972/390/311/original/0241fd0c3aac8a7a.png",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "followers_count": 426,
+            "following_count": 5,
+            "statuses_count": 7729,
+            "last_status_at": "2025-02-28",
+            "hide_collections": true,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "Offizieller Tagesschau Account",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://ard.social/@tagesschau\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tagesschau@ard.social</span></a></span>",
+                    "verified_at": null
+                },
+                {
+                    "name": "Nachrichten zum Thema Nahost",
+                    "value": "<a href=\"https://www.tagesschau.de/thema/nahost\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">tagesschau.de/thema/nahost</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "FAQ",
+                    "value": "<a href=\"https://masto-liveblog-faq.glitch.me/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">masto-liveblog-faq.glitch.me/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2025-02-27T02:23:11.976+00:00"
+                },
+                {
+                    "name": "Eilmeldungen",
+                    "value": "<span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@tagesschau_eil\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tagesschau_eil</span></a></span>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "tagesschau",
+                "url": "https://mastodont.cat/tags/tagesschau"
+            },
+            {
+                "name": "nahost",
+                "url": "https://mastodont.cat/tags/nahost"
+            },
+            {
+                "name": "israel",
+                "url": "https://mastodont.cat/tags/israel"
+            },
+            {
+                "name": "gaza",
+                "url": "https://mastodont.cat/tags/gaza"
+            }
+        ],
+        "emojis": [],
+        "card": {
+            "url": "https://www.tagesschau.de/ausland/asien/israel-rueckzug-libanon-102.html?at_medium=mastodon&at_campaign=tagesschau.de",
+            "title": "Israel will fünf Militärposten im Südlibanon halten",
+            "description": "Das israelische Militär hat den Südlibanon offenbar fast vollständig verlassen. In Grenznähe sollen jedoch fünf Posten verbleiben. Libanons Regierung reagierte entschieden: Sie werde \"mit allen Mitteln\" den israelischen Rückzug erzwingen.",
+            "language": "de",
+            "type": "link",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "tagesschau.de",
+            "provider_url": "",
+            "html": "",
+            "width": 640,
+            "height": 360,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/346/711/original/81832fcef8e9a06c.jpg",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "U4CZ9Ja%0K%L%%M_0es:4;xYf8Rko#V@%2t7",
+            "published_at": "2025-02-18T13:17:38.967Z",
+            "authors": []
+        },
+        "poll": null
+    },
+    {
+        "id": "114082040367586348",
+        "created_at": "2025-02-28T14:43:09.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://infosec.exchange/users/itgrrl/statuses/114082040326865564",
+        "url": "https://infosec.exchange/@itgrrl/114082040326865564",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>when it comes to people completely failing at all things <a href=\"https://infosec.exchange/tags/legal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>legal</span></a>, I’m never surprised – just constantly disappointed… </p><p>these folks are an Australian company using a text messaging contact widget delivered by a US company, using boilerplate disclaimers required by a US law (TCPA) that isn’t applicable in Australia, linking to T&amp;Cs that are applicable to the US, with (of course 🙄) US spelling of their crappy boilerplate</p><p>it’s clowns all the way down, I’m afraid 🤪🤪🤪 </p><p>(and don’t even get me started on their provider’s use of “AI” bullshit in their contact widget – even their T&amp;Cs make it clear that it’s prone to hallucination &amp; it’s on their customers’ if that causes them problems 🤣😂🤣 )<br>&nbsp; <br>&nbsp; <br>&nbsp; <br>^ noting, of course, that <a href=\"https://infosec.exchange/tags/IANAL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IANAL</span></a> | <a href=\"https://infosec.exchange/tags/IANYL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IANYL</span></a> - <a href=\"https://infosec.exchange/@itgrrl/112981771774149383\" translate=\"no\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">infosec.exchange/@itgrrl/11298</span><span class=\"invisible\">1771774149383</span></a> 💁‍♀️</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "41037",
+            "username": "itgrrl",
+            "acct": "itgrrl@infosec.exchange",
+            "display_name": "itgrrl :donor:",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2018-08-19T00:00:00.000Z",
+            "note": "<p><a href=\"https://infosec.exchange/tags/InfoSec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>InfoSec</span></a> : <a href=\"https://infosec.exchange/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> : <a href=\"https://infosec.exchange/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tech</span></a> : <a href=\"https://infosec.exchange/tags/space\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>space</span></a> : <a href=\"https://infosec.exchange/tags/astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astronomy</span></a> : intersectional <a href=\"https://infosec.exchange/tags/feminist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>feminist</span></a> : <a href=\"https://infosec.exchange/tags/LGBTIQA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LGBTIQA</span></a>+ : <a href=\"https://infosec.exchange/tags/AntiFascist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AntiFascist</span></a> : striving to be <a href=\"https://infosec.exchange/tags/AntiRacist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AntiRacist</span></a> : <a href=\"https://infosec.exchange/tags/StarTrek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StarTrek</span></a> : <a href=\"https://infosec.exchange/tags/musicals\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>musicals</span></a> : I fight for the users : crypto means <a href=\"https://infosec.exchange/tags/cryptography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cryptography</span></a> : <a href=\"https://infosec.exchange/tags/CyberPunk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CyberPunk</span></a> : <a href=\"https://infosec.exchange/tags/SolarPunk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SolarPunk</span></a> : <a href=\"https://infosec.exchange/tags/HopePunk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HopePunk</span></a> : <a href=\"https://infosec.exchange/tags/aphantasia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aphantasia</span></a> 🫥 : opinions mine, not employer's 🦄🚀📡🛰✨🎶🎭💾👾🦎🏳️‍🌈🖖</p>",
+            "url": "https://infosec.exchange/@itgrrl",
+            "uri": "https://infosec.exchange/users/itgrrl",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/000/041/037/original/458d28ac95c5c917.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/000/041/037/original/458d28ac95c5c917.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/000/041/037/original/72ead5a37f41d3b0.jpeg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/000/041/037/original/72ead5a37f41d3b0.jpeg",
+            "followers_count": 1285,
+            "following_count": 1612,
+            "statuses_count": 5996,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [
+                {
+                    "shortcode": "donor",
+                    "url": "https://mastodont.cat/system/cache/custom_emojis/images/000/144/905/original/8aa653911041d878.png",
+                    "static_url": "https://mastodont.cat/system/cache/custom_emojis/images/000/144/905/static/8aa653911041d878.png",
+                    "visible_in_picker": true
+                }
+            ],
+            "fields": [
+                {
+                    "name": "🕸️",
+                    "value": "<a href=\"https://itgrrl.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">itgrrl.com/</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2025-02-24T15:37:01.811+00:00"
+                },
+                {
+                    "name": "📚",
+                    "value": "<a href=\"https://bookwyrm.social/user/itgrrl\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bookwyrm.social/user/itgrrl</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "pronouns",
+                    "value": "she / her",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [
+            {
+                "id": "114082040359451555",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/359/451/555/original/960c033b409044a3.jpeg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/359/451/555/small/960c033b409044a3.jpeg",
+                "remote_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/114/082/040/061/293/652/original/8c06dd65ac553126.jpeg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 1179,
+                        "height": 2169,
+                        "size": "1179x2169",
+                        "aspect": 0.5435684647302904
+                    },
+                    "small": {
+                        "width": 354,
+                        "height": 651,
+                        "size": "354x651",
+                        "aspect": 0.543778801843318
+                    }
+                },
+                "description": "A redacted screenshot of a website text message contact widget thingy with red outlines & highlighting showing that:\n\n- their physical address is in Australia \n- their website uses a .com.au domain \n- their “legal” boilerplate includes the phrase “Consent is not a condition of purchase”, which is required for the US TCPA (Telephone Consumer Protection Act of 1991) but not relevant to file in Australia \n- the boilerplate spells “authorize” with a zed \n\nI’ve added appropriate eye-roll and “zany face” emoji next to the most ridiculous parts of the text 💁‍♀️",
+                "blurhash": "UzPQBLoej]ozNhWVfRj[02WBj[fRM}j[ofbI"
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "legal",
+                "url": "https://mastodont.cat/tags/legal"
+            },
+            {
+                "name": "ianal",
+                "url": "https://mastodont.cat/tags/ianal"
+            },
+            {
+                "name": "ianyl",
+                "url": "https://mastodont.cat/tags/ianyl"
+            }
+        ],
+        "emojis": [],
+        "card": {
+            "url": "https://infosec.exchange/@itgrrl/112981771774149383",
+            "title": "itgrrl :donor: (@itgrrl@infosec.exchange)",
+            "description": "Adjunt: 1 imatge\n\nPls repeat after me: \n\n“I am not a [lawyer|cryptographer]. And even if I _were_ a [lawyer|cryptographer], I’m not _your_ [lawyer|cryptographer].”  💁‍♀️",
+            "language": "ca",
+            "type": "video",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "Infosec Exchange",
+            "provider_url": "",
+            "html": "<iframe src=\"https://infosec.exchange/media/112981769128337251/player\" width=\"480\" height=\"264\" allowfullscreen=\"allowfullscreen\" scrolling=\"no\" frameborder=\"0\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-forms\"></iframe>",
+            "width": 480,
+            "height": 264,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/015/154/632/original/90df9a120eb40f2f.png",
+            "image_description": "",
+            "embed_url": "https://media.infosec.exchange/infosec.exchange/media_attachments/files/112/981/769/128/337/251/original/2d4a01e1827e1355.mp4",
+            "blurhash": "UyODUp-;_NIUxvj[WAoft6RjRkof%MaybHof",
+            "published_at": null,
+            "authors": []
+        },
+        "poll": null
+    },
+    {
+        "id": "114082040209455781",
+        "created_at": "2025-02-28T14:43:06.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://mastodon.hongkongers.net/users/cbcbc_mirror/statuses/114082040126273121",
+        "url": "https://mastodon.hongkongers.net/@cbcbc_mirror/114082040126273121",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Want to save money by buying less? Here are tips for a 'no-buy' year<br>In this week's issue of our environmental newsletter, we get some tips to buy less and save money (and the climate), look at the impacts of PFAS exposure, find out how fossil fuel companies are influencing climate change education in schools.<br><a href=\"https://mastodon.hongkongers.net/tags/money\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>money</span></a> <a href=\"https://mastodon.hongkongers.net/tags/environment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>environment</span></a> <a href=\"https://mastodon.hongkongers.net/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://mastodon.hongkongers.net/tags/shopping\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shopping</span></a> <a href=\"https://mastodon.hongkongers.net/tags/News\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>News</span></a> <a href=\"https://mastodon.hongkongers.net/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a><br><a href=\"https://www.cbc.ca/news/science/what-on-earth-no-buy-year-1.7469862?cmp=rss\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cbc.ca/news/science/what-on-ea</span><span class=\"invisible\">rth-no-buy-year-1.7469862?cmp=rss</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "111073123603304382",
+            "username": "cbcbc_mirror",
+            "acct": "cbcbc_mirror@mastodon.hongkongers.net",
+            "display_name": "CBC British Columbia",
+            "locked": false,
+            "bot": true,
+            "discoverable": false,
+            "indexable": true,
+            "group": false,
+            "created_at": "2023-08-12T00:00:00.000Z",
+            "note": "<p>。。。RSS Robot — not a real account。。。</p><p>CBC British Columbia</p>",
+            "url": "https://mastodon.hongkongers.net/@cbcbc_mirror",
+            "uri": "https://mastodon.hongkongers.net/users/cbcbc_mirror",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/111/073/123/603/304/382/original/bb239db4d1dea132.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/111/073/123/603/304/382/original/bb239db4d1dea132.jpg",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "followers_count": 157,
+            "following_count": 0,
+            "statuses_count": 7523,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [
+            {
+                "id": "114082040195515503",
+                "type": "image",
+                "url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/195/515/503/original/fb58eb159e09811d.jpg",
+                "preview_url": "https://mastodont.cat/system/cache/media_attachments/files/114/082/040/195/515/503/small/fb58eb159e09811d.jpg",
+                "remote_url": "https://files.hongkongers.net/media_attachments/files/114/082/040/088/751/305/original/7c039ab616d5d1e8.jpg",
+                "preview_remote_url": null,
+                "text_url": null,
+                "meta": {
+                    "original": {
+                        "width": 620,
+                        "height": 349,
+                        "size": "620x349",
+                        "aspect": 1.7765042979942693
+                    },
+                    "small": {
+                        "width": 620,
+                        "height": 349,
+                        "size": "620x349",
+                        "aspect": 1.7765042979942693
+                    }
+                },
+                "description": null,
+                "blurhash": "UTG+O7S6_4e.IAxbofofXns.adodRjayt6jY"
+            }
+        ],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "money",
+                "url": "https://mastodont.cat/tags/money"
+            },
+            {
+                "name": "environment",
+                "url": "https://mastodont.cat/tags/environment"
+            },
+            {
+                "name": "climate",
+                "url": "https://mastodont.cat/tags/climate"
+            },
+            {
+                "name": "shopping",
+                "url": "https://mastodont.cat/tags/shopping"
+            },
+            {
+                "name": "news",
+                "url": "https://mastodont.cat/tags/news"
+            },
+            {
+                "name": "science",
+                "url": "https://mastodont.cat/tags/science"
+            }
+        ],
+        "emojis": [],
+        "card": {
+            "url": "https://www.cbc.ca/news/science/what-on-earth-no-buy-year-1.7469862?cmp=rss",
+            "title": "Want to save money by buying less? Here are tips for a 'no-buy' year | CBC News",
+            "description": "In this week's issue of our environmental newsletter, we get some tips to buy less and save money (and the climate), look at the impacts of PFAS exposure, find out how fossil fuel companies are influencing climate change education in schools.",
+            "language": "en",
+            "type": "link",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "CBC",
+            "provider_url": "",
+            "html": "",
+            "width": 620,
+            "height": 349,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/495/357/original/5b72879f779b0e15.jpeg",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "UTG+O7S6_4e.IAt8ofofXns.adoeRjayt6jY",
+            "published_at": null,
+            "authors": []
+        },
+        "poll": null
+    },
+    {
+        "id": "114082040188037047",
+        "created_at": "2025-02-28T13:56:00.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "de",
+        "uri": "https://squeet.me/objects/962c3e10-1a85507f-2322d8dfca9b574a",
+        "url": "https://squeet.me/display/962c3e10-1a85507f-2322d8dfca9b574a",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "Trumps Annäherungskurs gegenüber Putin löst in Europa Sorge aus. Der britische Premierminister Starmer lädt seine europäischen Partner nun zu einem Ukraine-Gipfel nach London ein.<br><a href=\"https://www.zdf.de/nachrichten/politik/ausland/keir-starmer-europaeisches-gipfeltreffen-ukraine-krieg-100.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Keir Starmer lädt zu europäischem Ukraine-Gipfel ein</a>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "108627629045234310",
+            "username": "zdfheute",
+            "acct": "zdfheute@squeet.me",
+            "display_name": "ZDF heute (inoffiziell)",
+            "locked": false,
+            "bot": true,
+            "discoverable": true,
+            "indexable": false,
+            "group": false,
+            "created_at": "2022-07-11T00:00:00.000Z",
+            "note": "Dies ist ein Bot, der den RSS-Feed von \"ZDF heute\" zur Verfügung stellt. Er wird nicht vom ZDF betrieben. Rückfragen bitte an heluecht@pirati.ca",
+            "url": "https://squeet.me/profile/zdfheute",
+            "uri": "https://squeet.me/profile/zdfheute",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/108/627/629/045/234/310/original/c045b7276bd0f88d.jpeg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/108/627/629/045/234/310/original/c045b7276bd0f88d.jpeg",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "followers_count": 17358,
+            "following_count": 0,
+            "statuses_count": 10766,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": {
+            "url": "https://www.zdf.de/nachrichten/politik/ausland/keir-starmer-europaeisches-gipfeltreffen-ukraine-krieg-100.html",
+            "title": "Keir Starmer lädt zu europäischem Ukraine-Gipfel ein",
+            "description": "Trumps Annäherungskurs gegenüber Putin löst in Europa Sorge aus. Der britische Premierminister Starmer lädt seine europäischen Partner nun zu einem Ukraine-Gipfel nach London ein.",
+            "language": "de",
+            "type": "link",
+            "author_name": "ZDFheute",
+            "author_url": "",
+            "provider_name": "ZDFheute",
+            "provider_url": "",
+            "html": "",
+            "width": 640,
+            "height": 360,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/495/356/original/671d45e4091106c0.jpeg",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "UOLC^?D%?JX3.mMxENWAPoWAEfX7y[R*H@Sz",
+            "published_at": "2025-02-28T13:56:45.306Z",
+            "authors": [
+                {
+                    "name": "ZDFheute",
+                    "url": "",
+                    "account": null
+                }
+            ]
+        },
+        "poll": null
+    },
+    {
+        "id": "114082040168850652",
+        "created_at": "2025-02-28T14:43:04.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "pt",
+        "uri": "https://ursal.zone/users/botsocialista/statuses/114082040035687030",
+        "url": "https://ursal.zone/@botsocialista/114082040035687030",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Papa Francisco completa duas semanas internado e segue sem previsão de alta.<br>- bsopera<br><a href=\"https://operamundi.uol.com.br/sociedade/papa-francisco-completa-duas-semanas-internado-mas-segue-sem-previsao-de-alta/\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">operamundi.uol.com.br/sociedad</span><span class=\"invisible\">e/papa-francisco-completa-duas-semanas-internado-mas-segue-sem-previsao-de-alta/</span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "110855973059632906",
+            "username": "botsocialista",
+            "acct": "botsocialista@ursal.zone",
+            "display_name": "Bot Socialista",
+            "locked": false,
+            "bot": true,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2023-08-07T00:00:00.000Z",
+            "note": "<p>Bot para a divulgação de notícias, blogs e periódicos produzidas por progressistas, canais de esquerda e socialistas.</p>",
+            "url": "https://ursal.zone/@botsocialista",
+            "uri": "https://ursal.zone/users/botsocialista",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/110/855/973/059/632/906/original/1d8f5a19718e0309.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/110/855/973/059/632/906/original/1d8f5a19718e0309.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/110/855/973/059/632/906/original/d0caa82e8bb6c229.jpg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/110/855/973/059/632/906/original/d0caa82e8bb6c229.jpg",
+            "followers_count": 1888,
+            "following_count": 1,
+            "statuses_count": 2788,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "Administrador (sugestões, dúvidas, etc.)",
+                    "value": "<a href=\"https://infosec.exchange/@siriuss\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">infosec.exchange/@siriuss</span><span class=\"invisible\"></span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": {
+            "url": "https://operamundi.uol.com.br/sociedade/papa-francisco-completa-duas-semanas-internado-mas-segue-sem-previsao-de-alta/",
+            "title": "Papa Francisco completa duas semanas internado e segue sem previsão de alta",
+            "description": "No 14º dia de hospitalização, o papa Francisco passou, “como nos dias passados, uma noite tranquila”, de acordo com a",
+            "language": "pt",
+            "type": "link",
+            "author_name": "",
+            "author_url": "",
+            "provider_name": "Opera Mundi",
+            "provider_url": "",
+            "html": "",
+            "width": 481,
+            "height": 478,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/495/358/original/5eb5bbaa480d9675.webp",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "UPJHXI?b9ZR*MwniW;NF4nIUs:xu~qxtRPxu",
+            "published_at": "2025-02-28T13:20:28.000Z",
+            "authors": []
+        },
+        "poll": null
+    },
+    {
+        "id": "114082040100732449",
+        "created_at": "2025-02-28T14:43:04.000Z",
+        "in_reply_to_id": "114082032168710993",
+        "in_reply_to_account_id": "109525081213016297",
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://mastodon.social/users/dcseifert/statuses/114082040048580771",
+        "url": "https://mastodon.social/@dcseifert/114082040048580771",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>the Watch 3 has all the fitness tracking stuff you'd look for, but I also appreciate that it looks less like a rugged triathlon watch and more like a traditional timepiece</p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "109525081213016297",
+            "username": "dcseifert",
+            "acct": "dcseifert@mastodon.social",
+            "display_name": "dan seifert",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": false,
+            "group": false,
+            "created_at": "2022-11-05T00:00:00.000Z",
+            "note": "<p>product critic at Google</p><p>used to be at The Verge</p><p>just doin my best</p><p>i still love technology, always and forever</p>",
+            "url": "https://mastodon.social/@dcseifert",
+            "uri": "https://mastodon.social/users/dcseifert",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/525/081/213/016/297/original/712e3d860409aea0.png",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/525/081/213/016/297/original/712e3d860409aea0.png",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/109/525/081/213/016/297/original/68b8b920bf7ccee2.jpeg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/525/081/213/016/297/original/68b8b920bf7ccee2.jpeg",
+            "followers_count": 7555,
+            "following_count": 191,
+            "statuses_count": 29,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "The Verge",
+                    "value": "<a href=\"https://www.theverge.com/23519135/mastodon-verge-staff-where-to-find\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/23519135/mastodon</span><span class=\"invisible\">-verge-staff-where-to-find</span></a>",
+                    "verified_at": "2025-02-25T00:55:32.367+00:00"
+                },
+                {
+                    "name": "Fedified",
+                    "value": "<a href=\"https://fedified.com/@dcseifert\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">fedified.com/@dcseifert</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2025-02-25T00:55:32.457+00:00"
+                },
+                {
+                    "name": "Threads",
+                    "value": "<a href=\"https://www.threads.net/@danseifert\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">threads.net/@danseifert</span><span class=\"invisible\"></span></a>",
+                    "verified_at": "2025-02-25T00:55:33.660+00:00"
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": null,
+        "poll": null
+    },
+    {
+        "id": "114082039979951248",
+        "created_at": "2025-02-28T14:40:59.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://flipboard.com/users/RollingStone/statuses/wXuVsT6fTlOPs_aQ9ZI8Ow:a:3199477",
+        "url": "https://flipboard.com/@rollingstone/music-news-dqrh37u8z/-/a-wXuVsT6fTlOPs_aQ9ZI8Ow%3Aa%3A3199477-%2F0",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Lizzo Will Preview New Album 'Love in Real Life' at Three Intimate Live Shows<br><a href=\"https://www.rollingstone.com/music/music-news/lizzo-love-in-real-life-intimate-live-shows-1235283146/?utm_source=flipboard&amp;utm_medium=activitypub\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">rollingstone.com/music/music-n</span><span class=\"invisible\">ews/lizzo-love-in-real-life-intimate-live-shows-1235283146/?utm_source=flipboard&amp;utm_medium=activitypub </span></a></p><p>Posted into Music News <span class=\"h-card\" translate=\"no\"><a href=\"https://flipboard.com/@rollingstone/music-news-dqrh37u8z\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>music-news-RollingStone</span></a></span></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "113199113208541522",
+            "username": "RollingStone",
+            "acct": "RollingStone@flipboard.com",
+            "display_name": "Rolling Stone",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2024-09-25T00:00:00.000Z",
+            "note": "<p>The latest news and more from Rolling Stone.</p><p>Follow to see posts from the official <a href=\"https://flipboard.com/@RollingStone\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Rolling Stone</a> Flipboard profile.</p>",
+            "url": "https://flipboard.com/@RollingStone",
+            "uri": "https://flipboard.com/users/RollingStone",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/113/199/113/208/541/522/original/ac82acd8da520da1.jpeg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/113/199/113/208/541/522/original/ac82acd8da520da1.jpeg",
+            "header": "https://mastodont.cat/headers/original/missing.png",
+            "header_static": "https://mastodont.cat/headers/original/missing.png",
+            "followers_count": 779470,
+            "following_count": 1,
+            "statuses_count": 178697,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [
+            {
+                "id": "113204344238455617",
+                "username": "music-news-RollingStone",
+                "url": "https://flipboard.com/@rollingstone/music-news-dqrh37u8z",
+                "acct": "music-news-RollingStone@flipboard.com"
+            }
+        ],
+        "tags": [],
+        "emojis": [],
+        "card": {
+            "url": "https://www.rollingstone.com/music/music-news/lizzo-love-in-real-life-intimate-live-shows-1235283146/?utm_source=flipboard&utm_medium=activitypub",
+            "title": "Lizzo Will Preview New Album ‘Love in Real Life’ at Three Intimate Live Shows",
+            "description": "Lizzo plans three concert performances in Los Angeles, New York, and Minneapolis set for March in support of her upcoming album 'Love in Real Life.'",
+            "language": "en",
+            "type": "link",
+            "author_name": "Larisha Paul",
+            "author_url": "",
+            "provider_name": "Rolling Stone",
+            "provider_url": "",
+            "html": "",
+            "width": 640,
+            "height": 360,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/495/352/original/cf3da439b3bd21b4.jpg",
+            "image_description": "Lizzo",
+            "embed_url": "",
+            "blurhash": "UoM%l]RP_NtR%gxvaeV@x]Rjoft7e:Riofof",
+            "published_at": "2025-02-28T14:40:59.000Z",
+            "authors": [
+                {
+                    "name": "Larisha Paul",
+                    "url": "",
+                    "account": null
+                }
+            ]
+        },
+        "poll": null
+    },
+    {
+        "id": "114082039923430024",
+        "created_at": "2025-02-28T14:43:01.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://masto.ai/users/meduza_en/statuses/114082039819750827",
+        "url": "https://masto.ai/@meduza_en/114082039819750827",
+        "replies_count": 0,
+        "reblogs_count": 0,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>The U.S. has given Moscow its approval to appoint Alexander Darchiyev as the next Russian Ambassador to Washington, Russia's Foreign Ministry said on Friday.<br><a href=\"https://buff.ly/41Ft0SL\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">buff.ly/41Ft0SL</span><span class=\"invisible\"></span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "109394093585469024",
+            "username": "meduza_en",
+            "acct": "meduza_en@masto.ai",
+            "display_name": "Meduza in English",
+            "locked": false,
+            "bot": false,
+            "discoverable": true,
+            "indexable": true,
+            "group": false,
+            "created_at": "2022-11-21T00:00:00.000Z",
+            "note": "<p>Breaking news in Russia, investigative reports, interviews, and opinions. In English. You’re welcome.</p>",
+            "url": "https://masto.ai/@meduza_en",
+            "uri": "https://masto.ai/users/meduza_en",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/109/394/093/585/469/024/original/7ef0e4c31dafb20e.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/109/394/093/585/469/024/original/7ef0e4c31dafb20e.jpg",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/109/394/093/585/469/024/original/f0668bc006f89986.jpeg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/109/394/093/585/469/024/original/f0668bc006f89986.jpeg",
+            "followers_count": 2892,
+            "following_count": 3,
+            "statuses_count": 5246,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": []
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [],
+        "emojis": [],
+        "card": {
+            "url": "https://buff.ly/41Ft0SL",
+            "title": "Russia says U.S. has approved its new nominee for ambassador to Washington",
+            "description": "The U.S. has given Moscow its approval to appoint Alexander Darchiyev as the next Russian Ambassador to Washington, the Russian Foreign Ministry announced on Friday.",
+            "language": "en",
+            "type": "link",
+            "author_name": "Meduza",
+            "author_url": "",
+            "provider_name": "Meduza",
+            "provider_url": "",
+            "html": "",
+            "width": 662,
+            "height": 348,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/495/205/original/4f2d5ed4d86e0382.png",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "U25hY{%2Rixas-t6s:oe4njY%2WB%Ms.oJoL",
+            "published_at": "2025-02-28T14:06:12.000Z",
+            "authors": [
+                {
+                    "name": "Meduza",
+                    "url": "",
+                    "account": null
+                }
+            ]
+        },
+        "poll": null
+    },
+    {
+        "id": "114082039648076484",
+        "created_at": "2025-02-28T14:42:56.000Z",
+        "in_reply_to_id": null,
+        "in_reply_to_account_id": null,
+        "sensitive": false,
+        "spoiler_text": "",
+        "visibility": "public",
+        "language": "en",
+        "uri": "https://mstdn.social/users/GottaLaff/statuses/114082039497410744",
+        "url": "https://mstdn.social/@GottaLaff/114082039497410744",
+        "replies_count": 0,
+        "reblogs_count": 1,
+        "favourites_count": 0,
+        "edited_at": null,
+        "favourited": false,
+        "reblogged": false,
+        "muted": false,
+        "bookmarked": false,
+        "content": "<p>Because all his other bigotry and racism aren’t enough, he’s gotta keep trolling </p><p>“ <a href=\"https://mstdn.social/tags/Trump\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Trump</span></a> is expected to sign an executive order to make English the official language of the United States, according to a White House official”</p><p> <a href=\"https://abcnews.link/UVn7lE4\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">abcnews.link/UVn7lE4</span><span class=\"invisible\"></span></a></p>",
+        "filtered": [],
+        "reblog": null,
+        "account": {
+            "id": "113868510161684016",
+            "username": "GottaLaff",
+            "acct": "GottaLaff@mstdn.social",
+            "display_name": "Laffy",
+            "locked": false,
+            "bot": false,
+            "discoverable": false,
+            "indexable": true,
+            "group": false,
+            "created_at": "2025-01-21T00:00:00.000Z",
+            "note": "<p>Bite me, Musk.</p><p>NOTE: NO BIO, NO POSTS = INSTANT BLOCK</p><p>Progressive political commentator (print, radio, podcasts) for years. I post a lot: breaking news + legit info you can use, prone to snark. My mini Australian Labradoodle, Hamilton, has trained me well.</p><p>Now where's my trough of wine? 🍷🇨🇦</p><p><a href=\"https://mstdn.social/tags/Progressive\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Progressive</span></a> <a href=\"https://mstdn.social/tags/USPolitics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>USPolitics</span></a> <a href=\"https://mstdn.social/tags/VotingRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VotingRights</span></a> <a href=\"https://mstdn.social/tags/legal\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>legal</span></a> <a href=\"https://mstdn.social/tags/WomensRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WomensRights</span></a> <a href=\"https://mstdn.social/tags/CivilRights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CivilRights</span></a> <a href=\"https://mstdn.social/tags/BLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BLM</span></a> <a href=\"https://mstdn.social/tags/climate\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>climate</span></a> <a href=\"https://mstdn.social/tags/Canada\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Canada</span></a> <a href=\"https://mstdn.social/tags/journalists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journalists</span></a> <a href=\"https://mstdn.social/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a> <a href=\"https://mstdn.social/tags/news\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>news</span></a> <a href=\"https://mstdn.social/tags/LGBTQ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LGBTQ</span></a> <a href=\"https://mstdn.social/tags/DogsOfMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DogsOfMastodon</span></a></p>",
+            "url": "https://mstdn.social/@GottaLaff",
+            "uri": "https://mstdn.social/users/GottaLaff",
+            "avatar": "https://mastodont.cat/system/cache/accounts/avatars/113/868/510/161/684/016/original/4da2ea1c2b9edbe0.jpg",
+            "avatar_static": "https://mastodont.cat/system/cache/accounts/avatars/113/868/510/161/684/016/original/4da2ea1c2b9edbe0.jpg",
+            "header": "https://mastodont.cat/system/cache/accounts/headers/113/868/510/161/684/016/original/a224c09a1b7549f5.jpeg",
+            "header_static": "https://mastodont.cat/system/cache/accounts/headers/113/868/510/161/684/016/original/a224c09a1b7549f5.jpeg",
+            "followers_count": 32273,
+            "following_count": 6157,
+            "statuses_count": 11474,
+            "last_status_at": "2025-02-28",
+            "hide_collections": false,
+            "emojis": [],
+            "fields": [
+                {
+                    "name": "How I Moved to Canada",
+                    "value": "<a href=\"https://thepoliticalcarnival.blogspot.com/2024/01/im-moving-to-canada.html\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">thepoliticalcarnival.blogspot.</span><span class=\"invisible\">com/2024/01/im-moving-to-canada.html</span></a>",
+                    "verified_at": null
+                },
+                {
+                    "name": "BlueSky",
+                    "value": "<a href=\"https://bsky.app/profile/gottalaff.bsky.social\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bsky.app/profile/gottalaff.bsk</span><span class=\"invisible\">y.social</span></a>",
+                    "verified_at": null
+                }
+            ]
+        },
+        "media_attachments": [],
+        "mentions": [],
+        "tags": [
+            {
+                "name": "trump",
+                "url": "https://mastodont.cat/tags/trump"
+            }
+        ],
+        "emojis": [],
+        "card": {
+            "url": "https://abcnews.link/UVn7lE4",
+            "title": "Trump expected to sign executive order making English the official US language",
+            "description": "A White House official confirmed the news to ABC News.",
+            "language": "en",
+            "type": "link",
+            "author_name": "Hannah Demissie",
+            "author_url": "https://abcnews.go.com/author/hannah_demissie",
+            "provider_name": "ABC News",
+            "provider_url": "",
+            "html": "",
+            "width": 640,
+            "height": 360,
+            "image": "https://mastodont.cat/system/cache/preview_cards/images/017/495/351/original/c8eaf7c29998addc.jpg",
+            "image_description": "",
+            "embed_url": "",
+            "blurhash": "URI;6e%D5jrW~BoakVVsE%jbw]R*%2j=j[V[",
+            "published_at": "2025-02-28T14:34:20.000Z",
+            "authors": [
+                {
+                    "name": "Hannah Demissie",
+                    "url": "https://abcnews.go.com/author/hannah_demissie",
+                    "account": null
+                }
+            ]
+        },
+        "poll": null
+    }
+]
