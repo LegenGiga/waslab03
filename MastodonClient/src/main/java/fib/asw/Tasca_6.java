@@ -3,6 +3,7 @@ package fib.asw;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ResourceBundle;
+import java.util.regex.Pattern;
 
 import org.apache.hc.client5.http.fluent.Request;
 import org.json.JSONArray;
@@ -123,6 +124,7 @@ public class Tasca_6 {
     		accountObjects = new ArrayList<JSONObject>(numAccounts);
     		for (int i = 0; i < numAccounts; i++) {
     			accountObjects.add(i, jsonAccounts.getJSONObject(i));
+    			appendHTMLAccount("", jsonAccounts.getJSONObject(i));
     		}
     		
 
@@ -132,14 +134,28 @@ public class Tasca_6 {
     }
     
     private static final String ACCOUNT_TEMPLATE = "<div>"
-			+ "<h2><img src=\"%s\">%s</h2>"
+			+ "<h2><img src=\"%s\">%s (%s)</h2>"
 			+ "<p>Nombre de seguidors: %d</p>"
 			+ "%s"
-			+ "<>"
-    private void appendHTMLAccount(String html, JSONObject account) {
+			+ "</div>";
+    private static final String USERNAME_TEMPLATE = "%s@mastodont.cat";
+    private static void appendHTMLAccount(String html, JSONObject account) {
     	String displayName = account.getString("display_name");
-    	if (displayName == "") 
+    	if (displayName.length() == 0) 
     		displayName = account.getString("username");
+    	
+    	int followersCount = account.getInt("followers_count");
+    	String avatarSrc = account.getString("avatar");
+    	
+    	String accountName = account.getString("acct");
+    	Pattern domainMatch = Pattern.compile("@");
+    	
+    	if (!domainMatch.matcher(accountName).find())
+    		accountName = String.format(USERNAME_TEMPLATE, account.getString("username"));
+    	
+    	String htmlAccount = String.format(ACCOUNT_TEMPLATE, avatarSrc, displayName,
+    			accountName, followersCount, "");
+    	// System.out.println(htmlAccount);
     	
     }
 }
