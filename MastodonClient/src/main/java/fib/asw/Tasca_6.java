@@ -107,13 +107,13 @@ public class Tasca_6 {
 			"</div>\n" + 
 			"%s" +
 			"</body>";
+	
 	private static final String FIB_ASW_ID = "109862447110628983";
 	private static final String ACCOUNTS_FOLLOW_REQUEST = String.format(
 			"https://mastodont.cat/api/v1/accounts/%s/followers", FIB_ASW_ID);
 	
     public static void main(String[] args) {
     	List<JSONObject> accountObjects = new ArrayList<JSONObject>();
-    	
     	try {
     		String output = Request.get(ACCOUNTS_FOLLOW_REQUEST).execute().returnContent().asString();
     		
@@ -129,5 +129,17 @@ public class Tasca_6 {
     	} catch (Exception ex) {
             ex.printStackTrace();
         }
+    }
+    
+    private static final String ACCOUNT_TEMPLATE = "<div>"
+			+ "<h2><img src=\"%s\">%s</h2>"
+			+ "<p>Nombre de seguidors: %d</p>"
+			+ "%s"
+			+ "<>"
+    private void appendHTMLAccount(String html, JSONObject account) {
+    	String displayName = account.getString("display_name");
+    	if (displayName == "") 
+    		displayName = account.getString("username");
+    	
     }
 }
